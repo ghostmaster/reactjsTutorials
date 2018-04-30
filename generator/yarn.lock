@@ -1216,12 +1216,12 @@ caniuse-api@^1.5.2:
     lodash.uniq "^4.5.0"
 
 caniuse-db@^1.0.30000529, caniuse-db@^1.0.30000634, caniuse-db@^1.0.30000639:
-  version "1.0.30000686"
-  resolved "https://registry.yarnpkg.com/caniuse-db/-/caniuse-db-1.0.30000686.tgz#d55b479ed6e6402c1fd3f1fd8f46e694d86ea464"
+  version "1.0.30000690"
+  resolved "https://registry.yarnpkg.com/caniuse-db/-/caniuse-db-1.0.30000690.tgz#ee4e0750070f6aae6f40e76477984449bd6cb48a"
 
 caniuse-lite@^1.0.30000669, caniuse-lite@^1.0.30000684:
-  version "1.0.30000686"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30000686.tgz#d9d9ec6110e5533be544a689003f7596532c67d3"
+  version "1.0.30000690"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30000690.tgz#3b232dbc0cf32bc2a888ec199852a50afa37f5ef"
 
 capture-stack-trace@^1.0.0:
   version "1.0.0"
@@ -5800,8 +5800,8 @@ uglify-js@^2.6, uglify-js@^2.8.27, uglify-js@^2.8.5:
     uglify-to-browserify "~1.0.0"
 
 uglify-js@3.0.x:
-  version "3.0.17"
-  resolved "https://registry.yarnpkg.com/uglify-js/-/uglify-js-3.0.17.tgz#d228cd55c2df9b3d2f53f147568cb4cc4a72cc06"
+  version "3.0.18"
+  resolved "https://registry.yarnpkg.com/uglify-js/-/uglify-js-3.0.18.tgz#d67a3e5a0a08356b787fb1c9bddf3a807630902e"
   dependencies:
     commander "~2.9.0"
     source-map "~0.5.1"
