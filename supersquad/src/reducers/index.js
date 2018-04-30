@@ -1,11 +1,11 @@
 import { combineReducers } from 'redux';
 
-import characters from './charactersReducer';
-import heroes from './heroesReducer'; 
+import characters from './characters_reducer';
+import heroes from './heroes_reducer';
 
 const rootReducer = combineReducers({
-    characters, 
-    heroes
+  characters,
+  heroes
 })
 
 export default rootReducer;
