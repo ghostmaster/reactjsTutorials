@@ -1,5 +1,4 @@
 import { username, password } from './secrets';
-
 export const RECEIVE_MEMES = 'RECEIVE_MEMES';
 export const NEW_MEME = 'NEW_MEME';
 
@@ -56,3 +55,5 @@ export function createMeme(new_meme_object) {
       .then(new_meme => dispatch(newMeme(new_meme)))
   }
 }
+
+
